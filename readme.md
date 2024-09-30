@@ -6,6 +6,8 @@ See also the [**project description**](https://roadmap.sh/projects/task-tracker)
 
 ## How to use
 
+Make sure you have [node][https://nodejs.org/download] installed.
+
 The list of commands and their usage is given below:
 
 ```sh
